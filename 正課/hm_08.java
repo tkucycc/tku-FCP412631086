@@ -13,7 +13,7 @@ public class hm_08 {
         String n3= scn.next();
 
         System.out.println(n1+","+n2+","+n3);
-        
+        scn.close();
 
         
     }
